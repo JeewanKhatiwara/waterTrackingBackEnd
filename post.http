@@ -1,0 +1,6 @@
+POST http://localhost:3000/naam HTTP/1.1
+Content-Type: application/json
+
+{
+    "title":"Jeewan"
+}
